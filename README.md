@@ -5,4 +5,4 @@ BePrivate is a list of alternatives services to Google, Facebook and other ad-ba
 Website: https://jefreybulla.github.io/beprivate/
 
 ## Contribute 
-Contributions are welcome! To improve the list, please open an issue to start the conversation!
+Contributions are welcome! To improve the list, please open an issue stating your suggestion. 
