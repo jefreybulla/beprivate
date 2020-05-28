@@ -31,6 +31,8 @@
 | Firefox |  <a href="https://www.mozilla.org/" target="_blank">Website</a> | <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code" target="_blank">Open source</a> |
 | Opera | <a href="https://www.opera.com/" target="_blank">Website</a> | <a href="https://github.com/operasoftware" target="_blank">Open source</a> |
 | Safari | <a href="https://www.apple.com/safari/" target="_blank">Website</a> | Closed source |
+| Brave | <a href="https://brave.com/" target="_blank">Website</a> | <a href="https://github.com/brave" target="_blank">Open source</a> | 
+
 
 ## Facebook alternatives
 
